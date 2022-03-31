@@ -6,7 +6,7 @@ import threading
 
 
 extension_info = {
-    "title": "W-TradeSpam",
+    "title": "26'sTradeSpam",
     "description": "ts: on&off&cho ",
     "version": "0.2",
     "author": "funkydemir66"
